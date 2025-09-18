@@ -23,13 +23,5 @@
 | epubViewer<br/> [![Number of downloads](https://img.shields.io/github/downloads/lepidus/epubViewer/total)](https://github.com/lepidus/epubViewer/releases)                                         | Allows viewing ePUB in OJS/OMP via Bibi reader | [Source](https://github.com/lepidus/epubViewer) |
 | Review Reminder<br/> [![Number of downloads](https://img.shields.io/github/downloads/lepidus/reviewReminder/total)](https://github.com/lepidus/reviewReminder/releases)                                                                        | Sends a reminder of the review deadline to reviewers                                   | [Source](https://github.com/lepidus/reviewReminder)                                                                            |                                                   |
 | carinianaPreservation<br/> [![Number of downloads](https://img.shields.io/github/downloads/lepidus/carinianaPreservation/total)](https://github.com/lepidus/carinianaPreservation/releases)                                         | Facilitates the digital preservation process of OJS journals through the Cariniana Network. Its functionality is to send an email to the Carianiana network with information about the journal to be preserved. | [Source](https://github.com/lepidus/carinianaPreservation) |
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yvescesar&show_icons=true&locale=en&layout=compact" alt="yvescesar" />
-  <img src="https://github-readme-stats.vercel.app/api?username=yveslepidus&show_icons=true&locale=en" alt="yveslepidus" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yveslepidus" alt="yveslepidus" />
-</p>
 
 
