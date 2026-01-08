@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Lepidus Tecnologia](https://github.com/lepidus) as [YvesLepidus](https://github.com/YvesLepidus) user.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yveslepidus" alt="yveslepidus" /></a> </p>
-
 - 📫 How to reach me **yvesamorim73@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
