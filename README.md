@@ -2,8 +2,7 @@
 
 ## FullStack Developer
 
-- I’m currently working at [Lepidus Tecnologia](https://github.com/lepidus) as [YvesLepidus](https://github.com/YvesLepidus).
-- How to reach me: `yvesamorim73@gmail.com`
+- Developer at [Lepidus Tecnologia](https://github.com/lepidus) / Cooperative member at [LibreCode](https://github.com/LibreCodeCoop)
 
 ## Connect With Me
 
@@ -25,7 +24,8 @@
 
 | Name | Description | Links |
 | --- | --- | --- |
+| LibreSign<br/>[![Number of downloads](https://img.shields.io/github/downloads/LibreSign/libresign/total)](https://github.com/LibreSign/libresign/releases) | LibreSign helps you control how document signing works across your organization. | [Source](https://github.com/LibreSign/libresign) / [App Store](https://apps.nextcloud.com/apps/libresign) |
+| Doom Nextcloud<br/>[![Number of downloads](https://img.shields.io/github/downloads/YvesCesar/doom_nextcloud/total)](https://github.com/YvesCesar/doom_nextcloud/releases) | Allows you to play Doom in Nextcloud. | [Source](https://github.com/YvesCesar/doom_nextcloud) / [App Store](https://apps.nextcloud.com/apps/doom_nextcloud) |
 | OASwitchboard<br/>[![Number of downloads](https://img.shields.io/github/downloads/lepidus/OASwitchboard/total)](https://github.com/lepidus/OASwitchboard/releases) | Enables OJS journals to automatically send P1 type messages to the Open Access Switchboard API at the moment of article publication. | [Source](https://github.com/lepidus/OASwitchboard) |
 | epubViewer<br/>[![Number of downloads](https://img.shields.io/github/downloads/lepidus/epubViewer/total)](https://github.com/lepidus/epubViewer/releases) | Allows viewing ePUB in OJS/OMP via Bibi reader. | [Source](https://github.com/lepidus/epubViewer) |
 | Review Reminder<br/>[![Number of downloads](https://img.shields.io/github/downloads/lepidus/reviewReminder/total)](https://github.com/lepidus/reviewReminder/releases) | Sends a reminder of the review deadline to reviewers. | [Source](https://github.com/lepidus/reviewReminder) |
-| Doom Nextcloud<br/>[![Number of downloads](https://img.shields.io/github/downloads/YvesCesar/doom_nextcloud/total)](https://github.com/YvesCesar/doom_nextcloud/releases) | Allows you to play Doom in Nextcloud. | [Source](https://github.com/YvesCesar/doom_nextcloud) / [App Store](https://apps.nextcloud.com/apps/doom_nextcloud) |
