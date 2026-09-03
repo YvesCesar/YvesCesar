@@ -2,7 +2,8 @@
 
 ## FullStack Developer
 
-- Developer at [Lepidus Tecnologia](https://github.com/lepidus) / Cooperative member at [LibreCode](https://github.com/LibreCodeCoop)
+- Developer at [Lepidus Tecnologia](https://github.com/lepidus)
+- Cooperative member at [LibreCode](https://github.com/LibreCodeCoop)
 
 ## Connect With Me
 
